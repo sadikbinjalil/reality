@@ -1,0 +1,431 @@
+/*	Color
+==================================*/
+.color-default, .color-default-a a{
+	color: #F47425;
+}
+.color-primary, .color-primary-a a{
+	color: #0d1432;
+}
+.color-secondery, .color-secondery-a a{
+	color: #818181
+}
+.color-white, .color-white-a a, .icon_white i{
+	color: #fff;
+}
+/*	Background Color Class
+====================================*/
+.bg-default{
+	background-color: #004679 !important;
+}
+.bg-primary{
+	background-color: #004679 !important;
+}
+.bg-secondery{
+	background-color: #818181;
+}
+.bg-gray{
+	background-color: #f5f5f5 !important;
+}
+.bg-white{
+	background-color: #fff;
+}
+.tag_line {
+    background: #f8ecdc
+}
+
+.tag_line:before{
+    border-right-color: #f8ecdc;
+}
+ .faq_item .faq_question:before, .timeline .date_time:before{
+	border-right-color: #004679
+ }
+/*	btn
+====================================*/
+.btn-default1,.btn-default2:hover{
+	color: #fff;
+	background-color: #004679;
+	border-color: transparent;
+}
+.btn-default1:hover,.btn-default2{
+	color:#fff;
+	filter: brightness(115%);
+}
+.btn-white1,.btn-white2:hover{
+	background-color: #fff;
+	color: #0d1432;
+	border-color: transparent;
+}
+.btn-white2,.btn-white1:hover{
+	background-color: transparent;
+	color: #fff;
+	border-color: #fff;
+}
+.btn-primary.collapsed{
+	background-color: #f5f5f5;
+	color: #818181;
+}
+.btn-primary:hover,.btn-primary,
+.btn-primary:not(:disabled):not(.disabled):active{
+	background-color: #004679;
+	color: #fff;
+}
+.btn-primary{
+	background-color: #f5f5f5;
+	color: #818181;
+}
+.btn-link{
+	color: #004679;
+}
+.btn-link:hover{
+	color: #0d1432;
+}
+.btn-link-white{
+	color: #fff;
+}
+.btn-link-white:hover{
+	color: #0d1432;
+}
+/*	Hover Color 
+====================================*/
+.hover_primary a {
+	color: #0d1432
+}
+.hover_white a{
+	color:#fff;
+}
+.hover_gray a{
+	color:#818181;
+}
+.hover_primary a:hover,.hover_white a:hover,
+.hover_gray a:hover{
+	color: #004679;
+}
+
+/*	Color Default
+====================================*/
+.slider_content i, .list_style_1 li:before,
+.navbar-light .navbar-nav .nav-link.active,
+.slider_content h1 span,.form-group label span,
+.ft_area i,.thum_title p i,.area_price,
+.top_header .dropdown-toggle::after, .user_name a:hover,
+.table2_list ul li i,.value,.property_item h6,
+.property_details .btn-link:before,
+.property_details .btn-link.collapsed:after,
+.rating > input:checked ~ label, .categories li a:hover,
+.rating:not(:checked) > label:hover, .recent_post a:hover,
+.rating:not(:checked) > label:hover ~ label,
+.form9 a:hover,.option .dropdown-toggle:before,
+.link_property a:hover,.profile_user .dropdown-toggle:hover,
+.check_submit li input[type="checkbox"]:checked + label::before,
+.settings_links a:hover{
+	color: #F86400;
+}
+/*	Color Primary
+====================================*/
+
+.thum_data ul li span, .icon_primary i, 
+.header_three .user_name a:hover,
+.advance_form2 select.form-control, select option,
+.form-group input::placeholder,.nav-pills li.nav-item a,
+.top_filter button,.property_item ul li, blockquote,
+.accordion .card-body ul li span,.thum_data ul li span,
+.back a:hover, .table th,.deshbord_panel .accordion .card-body ul li,
+.recent_post a{
+	color: #0d1432
+}
+.custom_btn{
+	background: #F86400;
+	border:1px solid #F86400;
+}
+.custom_btn:hover{
+	background: #004679;
+	color: #fff !important;
+	border:1px solid #fff;
+}
+
+
+/*	Color Secondery
+====================================*/
+
+/*	Color Light Gray
+====================================*/
+.light_gray,
+::placeholder,input::placeholder, textarea,
+.input-group-text,.alam a:hover,.comment a:hover{
+	color: #a5a5a5 !important;
+}
+/*	Color Light Gray2
+====================================*/
+.left-arrow:after,.right-arrow:after,
+.rating > input:checked + label:hover,
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label,
+.rating > input:checked ~ label:hover ~ label{
+	color: #ececec;
+}
+/*	Color Gray
+====================================*/
+body.owl-nav button span,
+nav ul.pagination li.page-item .page-link,
+.accordion .card-body ul li,.property_details .nav-pills li.nav-item a,
+.download a span,.form-group label,.jslider-value > span,.jslider .jslider-value,
+.thum_data ul li,.form1 .jslider .jslider-label,.form3 .jslider .jslider-label,
+.deshbord_panel .accordion .card-body ul li span, .categories li a{
+	color: #818181;
+}
+
+/*	Color White
+====================================*/
+
+.navbar-light .navbar-nav .nav-link,.help_btn a,
+.starmark,.area_price span,.sale,.Featured,
+#header .dropdown-menu a.dropdown-item:hover,
+.navbar-light .navbar-nav .show>.nav-link,.checkbox_collapse:hover,
+.nav-pills li.nav-item a.active,nav ul.pagination li.page-item .page-link.active,
+nav ul.pagination li.page-item .page-link:hover, .top_filter .property-view .active,
+.property_video a,.back a,.advance_property .nav-pills li.nav-item a,
+.advance_property .jslider-value > span,.form8 .jslider .jslider-label,
+.deshbord_sidebar ul li a,.asset, .sidebar-widget form button.fa{
+	color: #fff;
+}
+
+/*	Background Color Default
+====================================*/
+.advance_form2 .jslider .jslider-bg .v,
+.jslider .jslider-bg .v,
+.title:before,.title:after,
+.Featured,.ft-widget-title:before,
+.ft-widget-title:after,
+.ui-slider-range,.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default,
+.nav-pills li.nav-item a.active,
+nav ul.pagination li.page-item .page-link.active,
+nav ul.pagination li.page-item .page-link:hover,
+.owl-carousel button.owl-dot.active,
+.top_filter .property-view .active,.property_video a,
+.ball-scale-multiple > div,.jslider .jslider-pointer,
+.property_filter_input .jslider .jslider-bg .v,
+.property_form .jslider .jslider-bg .v,
+.login_form ul li.active:before,
+::-webkit-scrollbar-thumb,
+.formicon .checkbox_collapse[aria-expanded="false"]::after,
+.formicon .checkbox_collapse::after,
+.radio_check input[type="checkbox"]:checked + label,
+.sidebar-widget form button.fa,
+.timeline_item:hover .circle{
+	background-color: #004679;
+}
+/*	Background Color Primary
+====================================*/
+.check_submit li input[type="checkbox"]:checked + label::before,
+.advance_sidebar .radio_check input[type="checkbox"]:checked + label {
+	background-color: #0d1432
+}
+/*	Background Color Secondery
+====================================*/
+
+/*	Background Color Gray
+====================================*/
+.owl-nav button span,
+nav ul.pagination li.page-item .page-link,
+.owl-carousel button.owl-dot,
+.table-striped tbody tr:nth-of-type(odd),
+.form4 .form-group .form-control,
+.form6 .form-group .form-control{
+	background-color: #f5f5f5;
+}
+/*	Background Color Gray2
+====================================*/
+.ui-widget-content,.jslider .jslider-bg .r,
+.jslider .jslider-bg .l{
+	background-color: #cecece
+}
+/*	Background Color White
+====================================*/
+.advance_sidebar .jslider .jslider-bg .v,
+.header_three, .header_four,
+.title-white:before,.title-white:after,
+.price_top:after,.shape_layer:after,
+.items_list table tbody tr,
+.advance_sidebar .check_submit li label::before,
+.recent-review .owl-dots .owl-dot{
+	background-color: #fff;
+}
+/*	Border Color
+====================================*/
+.spinner-border {
+	border-color: #004679;
+	border-right-color: transparent
+}
+.form-control:focus, .dashboard_personal_info .phone_code{
+	border-color: #a5a5a5
+}
+.borber_b,.policy ul li, .check_submit li label::before{
+	border-color: #cecece
+}
+.border_gray{
+	border-color: #2b2f36;
+}
+.dashed-border{
+	border-color: #fff;
+}
+.box-six i,.left-arrow:before,.right-arrow:before,
+.property_details .table td,
+.timeline .timeline_info{
+	border-color: #ececec;
+}
+.down-angle-gray::before {
+    border-color: #f5f5f5 transparent transparent transparent;
+}
+/*	Icon Color Default
+====================================*/
+.icon_default i{
+	color: #F86400
+}
+/*	Icon Color Default
+====================================*/
+.icon_white i{
+	color: #fff
+}
+
+/*	Navbar Color
+====================================*/
+/*=========== navbar 1	============*/
+.header_one .navbar a.navbar-brand,
+.slider_content p.liner:before,
+.form-control,.box-one:hover{
+	background-color: #fff;
+}
+.header_one .navbar-light .navbar-nav li.nav-item .nav-link.active,
+.header_one .navbar-light .navbar-nav .nav-link:focus,
+.header_one .navbar-light .navbar-nav .nav-link:hover{
+	color: #fff;
+	background-color: #004679;
+}
+.header_one .navbar-brand:before{
+	border-top-color: #fff;
+}
+.header_one.fixed-top,.header_five.fixed-top{
+	background-color: #0d1432;
+}
+#header .dropdown-menu a.dropdown-item:hover,
+#header .dropdown-menu li a.nav-link:hover,
+.header_one .dropdown-item.active, .header_one .dropdown-item:active,
+.navbar_three .dropdown-item.active, .dropdown-item:active,
+.navbar_four .dropdown-item.active, .dropdown-item:active,
+.navbar_five .dropdown-item.active, .dropdown-item:active{
+	color: #004679 !important;
+	background-color: #f5f5f5;
+	border-radius: none;
+	margin: 0
+}
+/*=========== navbar 2	============*/
+.navbar_two .navbar-light .navbar-nav li.nav-item.active a, 
+.navbar_two .navbar-light .navbar-nav .nav-link:hover{
+	color: #004679;
+}
+/*=========== navbar 3	============*/
+.navbar_three .navbar-light .navbar-nav li.nav-item.active a, 
+.navbar_three .navbar-light .navbar-nav .nav-link:hover,.help_btn2 a{
+	color: #fff;
+	border-color: #fff;
+}
+/*=========== navbar 4	============*/
+.navbar_four .navbar-brand:before{
+	border-top-color: #fff;
+}
+.navbar_four .navbar-light .navbar-nav .nav-link{
+	color: #0d1432;
+}
+.navbar_four .navbar-light .navbar-nav li.nav-item.active a, 
+.navbar_four .navbar-light .navbar-nav .nav-link:hover{
+	color: #004679;
+}
+.header_four.fixed-top{
+	background-color: #fff;
+}
+/*=========== navbar 5	============*/
+.navbar_five{
+	background-color: transparent;
+}
+.navbar_five .navbar-light .navbar-nav li.nav-item.active a, 
+.navbar_five .navbar-light .navbar-nav .nav-link:hover{
+	color: #F47425;
+}
+/*	Slider Color
+====================================*/
+.slider-track{
+	background-color: #cecece !important;
+}
+.slider-selection,.slider-handle{
+	background-color: #F47425;
+}
+
+/*	Overlay Color
+====================================*/
+.overlay_one:before{
+	background-color: rgba(0,0,0,0.5);
+}
+.overlay_two:before,
+.overlay_three:before{
+	background-color: rgba(13,20,50,0.7);
+}
+.slider-layer-1 {
+	background-color: rgba(13,20,50,0.4);
+}
+/*	Box Shadow
+========================================================*/
+.boxshadow_one:hover,.box-one:hover,.thumbnail_one:hover,.blog_one:hover,.profile_list:hover,
+.profile_details{
+	-webkit-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.15);
+	-moz-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.15);
+	-ms-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.15);
+	-o-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.15);
+	box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.15);
+}
+.boxshadow_one,.thumbnail_one,.box-two,.profile,.pricing1,.box-four,.box-five:hover,
+.price_table2.active,.profile_list{
+	-webkit-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.10);
+	-moz-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.10);
+	box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.10);
+}
+
+/*	Dashbord
+=============================================================================*/
+.deshbord_sidebar ul li:hover, .deshbord_sidebar ul li.active{
+	background-color: #1a376b;
+	color: #fff
+}
+.success {
+	border-color: #67c339
+}
+.success.alert{
+	border-color: #f46868
+}
+.panel_accordian, .panel_accordian:hover,
+.closebtn, .closebtn:hover{
+	color: #0d1432
+}
+.profile_property{
+	background-color: #55e3b0
+}
+.profile_rent{
+	background-color: #dc69f1
+}
+.profile_sale{
+	background-color: #f1c643
+}
+.profile_earning{
+	background-color: #ee6565
+}
+.massanger .panel_accordian, .massanger .panel_accordian:hover,
+.message_list li:hover, .message_list li.active {
+	background-color: #fff
+}
+.message_list a:hover {
+	color: #dc69f1
+}
+.bg_white{
+	color: #fff !important;
+}
